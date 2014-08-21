@@ -8,3 +8,4 @@ This application is used for screencast tutorials about how to set up Codeship p
 This is the forked version of codefish-rails
 
 CI configured  updated
+
